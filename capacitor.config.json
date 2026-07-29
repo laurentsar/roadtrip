@@ -1,0 +1,13 @@
+{
+  "appId": "com.laurent.roadtrip",
+  "appName": "Road Trip",
+  "webDir": "www",
+  "android": {
+    "allowMixedContent": true
+  },
+  "plugins": {
+    "CapacitorHttp": {
+      "enabled": true
+    }
+  }
+}

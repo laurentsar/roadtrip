@@ -1,0 +1,16 @@
+{
+  "name": "roadtrip",
+  "version": "1.0",
+  "private": true,
+  "description": "Organise un road trip : itinéraire par étapes, budget et dépenses, carnet de visites, carte interactive (PWA + APK)",
+  "scripts": {
+    "sync": "cap sync android",
+    "open": "cap open android"
+  },
+  "dependencies": {
+    "@capacitor/android": "^6.2.1",
+    "@capacitor/cli": "^6.2.1",
+    "@capacitor/core": "^6.2.1",
+    "@capacitor/geolocation": "^6.1.0"
+  }
+}

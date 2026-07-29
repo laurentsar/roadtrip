@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Road Trip</string>
+    <string name="title_activity_main">Road Trip</string>
+    <string name="package_name">com.laurent.roadtrip</string>
+    <string name="custom_url_scheme">com.laurent.roadtrip</string>
+</resources>
