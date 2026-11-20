@@ -7,7 +7,7 @@
    - Nominatim et l'API GitHub, qui doivent toujours répondre frais ou échouer.
 
    Penser à changer CACHE à chaque version, sinon l'ancienne coquille survit. */
-const CACHE = 'roadtrip-v1.0';
+const CACHE = 'roadtrip-v1.1';
 const SHELL = [
   'index.html', 'styles.css', 'app.js',
   'js/model.js', 'js/lieux.js', 'js/ha.js', 'js/carte.js',
